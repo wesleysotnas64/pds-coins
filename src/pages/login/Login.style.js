@@ -6,11 +6,8 @@ export const PageContainer = styled.div`
     height: 100vh;
     width: 100vw;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    /* overflow: hidden; */
-    /* position: absolute; */
 `;
 
 export const InputRegistration = styled.input`
@@ -27,6 +24,32 @@ export const InputRegistration = styled.input`
     width: 200px;
 
     &:focus {
-        border: 2px solid ${theme.colors.lightYellow}; // Muda a cor da borda para vermelho quando o input está em foco
+        border: 3px solid ${theme.colors.lightYellow}; // Muda a cor da borda para vermelho quando o input está em foco
     }
+`;
+
+export const ButtonSeeCoins = styled.button`
+    background: ${theme.colors.darkBlue};
+    color: ${theme.colors.lightYellow};
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 20px;
+    border: 1px solid ${theme.colors.lightYellow};
+    display: flex;
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &:hover{
+        cursor: pointer;
+    }
+`;
+
+export const MessageRegistration = styled.p`
+    
 `;
