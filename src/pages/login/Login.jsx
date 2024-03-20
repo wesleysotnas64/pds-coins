@@ -2,6 +2,7 @@ import { useState } from "react";
 import { ButtonSeeCoins, InputRegistration, PageContainer } from "./Login.style";
 import { StudentPanel } from "../studentPanel/StudentPanel";
 import { students } from "../../data/pds2024_1";
+import { Header } from "../../components/header/Header";
 
 export function Login () {
 
@@ -33,6 +34,7 @@ export function Login () {
 
     return (
         <>
+            <Header />
             {
                 showingCurrentStudent ? 
                 (

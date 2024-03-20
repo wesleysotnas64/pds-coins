@@ -1,8 +1,12 @@
 import styled from "styled-components"
 import { theme } from "../../themes.js"
+import bgImage from "../../assets/img/wallpaper_equipe.png"
 
 export const PageContainer = styled.div`
     background: ${theme.colors.deepBlue};
+    background-image: url(${bgImage});
+    background-size: cover;
+    background-position: center;
     height: 100vh;
     width: 100vw;
     display: flex;
