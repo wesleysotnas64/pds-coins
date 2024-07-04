@@ -28,7 +28,11 @@ export const InputRegistration = styled.input`
     width: 200px;
 
     &:focus {
-        border: 3px solid ${theme.colors.lightYellow}; // Muda a cor da borda para vermelho quando o input está em foco
+        border: 3px solid ${theme.colors.lightYellow};
+    }
+
+    &:hover {
+        border: 3px solid ${theme.colors.lightYellow};
     }
 `;
 
@@ -51,6 +55,7 @@ export const ButtonSeeCoins = styled.button`
 
     &:hover{
         cursor: pointer;
+        border: 3px solid ${theme.colors.lightYellow};
     }
 `;
 
