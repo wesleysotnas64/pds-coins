@@ -2,12 +2,12 @@ export const students = [
     {
         registration: "541581",
         name: "ALEXSANDRO MARTINS ALVES",
-        totalCoins: 0,
+        totalCoins: 10,
     },
     {
         registration: "539005",
         name: "ANNY KAROLYNE CARVALHO DE OLIVEIRA",
-        totalCoins: 0,
+        totalCoins: 10,
     },
     {
         registration: "539368",
@@ -17,7 +17,7 @@ export const students = [
     {
         registration: "511274",
         name: "ARTHUS ALMEIDA GIRAO",
-        totalCoins: 10,
+        totalCoins: 20,
     },
     {
         registration: "498105",
@@ -37,12 +37,12 @@ export const students = [
     {
         registration: "514303",
         name: "CAIO FINOTTI BOSCO",
-        totalCoins: 10,
+        totalCoins: 20,
     },
     {
         registration: "540482",
         name: "CAUA SILVA NASCIMENTO",
-        totalCoins: 0,
+        totalCoins: 10,
     },
     {
         registration: "403940",
@@ -57,7 +57,7 @@ export const students = [
     {
         registration: "536216",
         name: "EVELYN DE SENA CAVALCANTE",
-        totalCoins: 0,
+        totalCoins: 10,
     },
     {
         registration: "482188",
@@ -82,7 +82,7 @@ export const students = [
     {
         registration: "537643",
         name: "GABRIEL DE OLIVEIRA SAO PEDRO",
-        totalCoins: 10,
+        totalCoins: 20,
     },
     {
         registration: "535707",
@@ -102,7 +102,7 @@ export const students = [
     {
         registration: "541013",
         name: "GUSTAVO BARRETO DE SOUZA",
-        totalCoins: 0,
+        totalCoins: 10,
     },
     {
         registration: "536874",
@@ -112,12 +112,12 @@ export const students = [
     {
         registration: "539591",
         name: "HENRIQUE ALLAN PONTES DA SILVA",
-        totalCoins: 10,
+        totalCoins: 20,
     },
     {
         registration: "504400",
         name: "HERMANIO SANTANA CHAVES",
-        totalCoins: 0,
+        totalCoins: 10,
     },
     {
         registration: "540178",
@@ -137,12 +137,12 @@ export const students = [
     {
         registration: "535512",
         name: "JOAO ALBERTO RODRIGUES SOARES COSTA",
-        totalCoins: 10,
+        totalCoins: 20,
     },
     {
         registration: "535684",
         name: "JOAO CARLOS CONRADO DE LIMA",
-        totalCoins: 10,
+        totalCoins: 20,
     },
     {
         registration: "540509",
@@ -162,27 +162,27 @@ export const students = [
     {
         registration: "499129",
         name: "JOSE FABIO DOS SANTOS DO NASCIMENTO JUNIOR",
-        totalCoins: 9,
+        totalCoins: 19,
     },
     {
         registration: "404074",
         name: "LEONARDO DAVID TORRES BEZERRA",
-        totalCoins: 0,
+        totalCoins: 10,
     },
     {
         registration: "508465",
         name: "LINCE SENA DE OLIVEIRA",
-        totalCoins: 9,
+        totalCoins: 19,
     },
     {
         registration: "517173",
         name: "LUAN ROGER SANTOS CLEMENTINO",
-        totalCoins: 9,
+        totalCoins: 19,
     },
     {
         registration: "541562",
         name: "LUANA CRISTINA DA SILVA SANTIAGO",
-        totalCoins: 10,
+        totalCoins: 20,
     },
     {
         registration: "538291",
@@ -192,7 +192,7 @@ export const students = [
     {
         registration: "500768",
         name: "LUCAS DE ARAUJO FERREIRA MAIA",
-        totalCoins: 0,
+        totalCoins: 10,
     },
     {
         registration: "501016",
@@ -217,7 +217,7 @@ export const students = [
     {
         registration: "496273",
         name: "MARIA TERESA MATOSO CHAVES",
-        totalCoins: 0,
+        totalCoins: 10,
     },
     {
         registration: "536828",
@@ -232,7 +232,7 @@ export const students = [
     {
         registration: "537016",
         name: "PATRICK GLAUBER OLIVEIRA DA SILVA",
-        totalCoins: 10,
+        totalCoins: 20,
     },
     {
         registration: "494837",
@@ -262,7 +262,7 @@ export const students = [
     {
         registration: "539865",
         name: "VITOR GABRIEL RODRIGUES DE SOUSA",
-        totalCoins: 4,
+        totalCoins: 14,
     },
     {
         registration: "515115",
