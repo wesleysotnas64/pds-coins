@@ -51,3 +51,27 @@ export const ButtonClose = styled.button`
         cursor: pointer;
     }
 `;
+
+export const BoxCoin = styled.div`
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+    background-color: rgba(255,255,255,0.1);
+    color: ${theme.colors.lightYellow};
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+
+    label{
+        color: ${theme.colors.lightYellow};
+        font-size: 40px;
+        margin: 0px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+`;

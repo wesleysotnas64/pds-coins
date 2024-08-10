@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { ButtonClose, PageContainer } from "./StudentPanel.style";
+import { BoxCoin, ButtonClose, PageContainer } from "./StudentPanel.style";
 
 export function StudentPanel({ student, onClickToClose }) {
 
@@ -11,7 +11,12 @@ export function StudentPanel({ student, onClickToClose }) {
         <PageContainer>
             <ButtonClose onClick={handleCloseButtonClick}>X</ButtonClose>
             <label>{student.name} - {student.registration}</label>
-            <p>Você possui {student.totalCoins} moedas</p>
+            <p>Você possui</p>
+            <BoxCoin>
+                <label>{student.totalCoins}</label>
+                <p>moedas</p>
+            </BoxCoin>
+             
         </PageContainer>
     );
 }
