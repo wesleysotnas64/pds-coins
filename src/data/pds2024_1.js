@@ -2,12 +2,12 @@ export const students = [
     {
         registration: "541581",
         name: "ALEXSANDRO MARTINS ALVES",
-        totalCoins: 40,
+        totalCoins: 45,
     },
     {
         registration: "539005",
         name: "ANNY KAROLYNE CARVALHO DE OLIVEIRA",
-        totalCoins: 47,
+        totalCoins: 52,
     },
     {
         registration: "539368",
@@ -17,12 +17,12 @@ export const students = [
     {
         registration: "511274",
         name: "ARTHUS ALMEIDA GIRAO",
-        totalCoins: 45,
+        totalCoins: 50,
     },
     {
         registration: "498105",
         name: "BRENO OLIVEIRA MAURÍCIO LIMA",
-        totalCoins: 37,
+        totalCoins: 42,
     },
     {
         registration: "517117",
@@ -37,7 +37,7 @@ export const students = [
     {
         registration: "514303",
         name: "CAIO FINOTTI BOSCO",
-        totalCoins: 57,
+        totalCoins: 62,
     },
     {
         registration: "540482",
@@ -47,7 +47,7 @@ export const students = [
     {
         registration: "403940",
         name: "ELIZIANE SILVA DE LIMA",
-        totalCoins: 12,
+        totalCoins: 17,
     },
     {
         registration: "511280",
@@ -57,7 +57,7 @@ export const students = [
     {
         registration: "536216",
         name: "EVELYN DE SENA CAVALCANTE",
-        totalCoins: 47,
+        totalCoins: 52,
     },
     {
         registration: "482188",
@@ -72,47 +72,47 @@ export const students = [
     {
         registration: "537793",
         name: "FRANCISCO OLAVO DO NASCIMENTO SILVA MELO",
-        totalCoins: 12,
+        totalCoins: 17,
     },
     {
         registration: "511679",
         name: "GABRIEL BARROS DA SILVA",
-        totalCoins: 0,
+        totalCoins: 5,
     },
     {
         registration: "537643",
         name: "GABRIEL DE OLIVEIRA SAO PEDRO",
-        totalCoins: 57,
+        totalCoins: 62,
     },
     {
         registration: "535707",
         name: "GABRIEL GOMES MARQUES",
-        totalCoins: 12,
+        totalCoins: 17,
     },
     {
         registration: "511613",
         name: "GABRIEL NOVAIS LIMA",
-        totalCoins: 25,
+        totalCoins: 30,
     },
     {
         registration: "474021",
         name: "GABRIEL ROCHA DE SOUZA",
-        totalCoins: 0,
+        totalCoins: 5,
     },
     {
         registration: "541013",
         name: "GUSTAVO BARRETO DE SOUZA",
-        totalCoins: 47,
+        totalCoins: 52,
     },
     {
         registration: "536874",
         name: "HELOISA EVEN FEITOZA RICARDINO",
-        totalCoins: 30,
+        totalCoins: 35,
     },
     {
         registration: "539591",
         name: "HENRIQUE ALLAN PONTES DA SILVA",
-        totalCoins: 57,
+        totalCoins: 62,
     },
     {
         registration: "504400",
@@ -122,12 +122,12 @@ export const students = [
     {
         registration: "540178",
         name: "INGRID LETICIA MARQUES DE SOUSA",
-        totalCoins: 30,
+        totalCoins: 35,
     },
     {
         registration: "537271",
         name: "ITALO FERNANDO SILVA DUTRA",
-        totalCoins: 22,
+        totalCoins: 27,
     },
     {
         registration: "539039",
@@ -137,17 +137,17 @@ export const students = [
     {
         registration: "535512",
         name: "JOAO ALBERTO RODRIGUES SOARES COSTA",
-        totalCoins: 57,
+        totalCoins: 62,
     },
     {
         registration: "535684",
         name: "JOAO CARLOS CONRADO DE LIMA",
-        totalCoins: 57,
+        totalCoins: 62,
     },
     {
         registration: "540509",
         name: "JOAO EDUARDO DE OLIVEIRA GIRAO",
-        totalCoins: 37,
+        totalCoins: 42,
     },
     {
         registration: "474045",
@@ -157,12 +157,12 @@ export const students = [
     {
         registration: "538799",
         name: "JONATHAS NOBRE MOURA",
-        totalCoins: 10,
+        totalCoins: 15,
     },
     {
         registration: "499129",
         name: "JOSE FABIO DOS SANTOS DO NASCIMENTO JUNIOR",
-        totalCoins: 49,
+        totalCoins: 54,
     },
     {
         registration: "404074",
@@ -172,7 +172,7 @@ export const students = [
     {
         registration: "508465",
         name: "LINCE SENA DE OLIVEIRA",
-        totalCoins: 56,
+        totalCoins: 61,
     },
     {
         registration: "517173",
@@ -187,17 +187,17 @@ export const students = [
     {
         registration: "538291",
         name: "LUCAS DANTAS BRANDOLT",
-        totalCoins: 37,
+        totalCoins: 42,
     },
     {
         registration: "500768",
         name: "LUCAS DE ARAUJO FERREIRA MAIA",
-        totalCoins: 32,
+        totalCoins: 37,
     },
     {
         registration: "501016",
         name: "MARCEL BASTOS BLEASBY",
-        totalCoins: 30,
+        totalCoins: 35,
     },
     {
         registration: "514851",
@@ -207,12 +207,12 @@ export const students = [
     {
         registration: "548329",
         name: "MARIA ISABELE DE OLIVEIRA",
-        totalCoins: 35,
+        totalCoins: 40,
     },
     {
         registration: "541577",
         name: "MARIA JULIA SIQUEIRA DE SOUZA",
-        totalCoins: 40,
+        totalCoins: 45,
     },
     {
         registration: "496273",
@@ -222,7 +222,7 @@ export const students = [
     {
         registration: "536828",
         name: "MARLLON VINICIUS DE SOUSA PINHEIRO",
-        totalCoins: 27,
+        totalCoins: 32,
     },
     {
         registration: "516163",
@@ -232,17 +232,17 @@ export const students = [
     {
         registration: "537016",
         name: "PATRICK GLAUBER OLIVEIRA DA SILVA",
-        totalCoins: 57,
+        totalCoins: 62,
     },
     {
         registration: "494837",
         name: "PAULO HENRIQUE DINIZ DE LIMA ALENCAR",
-        totalCoins: 32,
+        totalCoins: 37,
     },
     {
         registration: "511175",
         name: "PEDRO DE CARVALHO CHAABAN",
-        totalCoins: 45,
+        totalCoins: 50,
     },
     {
         registration: "536658",
@@ -252,7 +252,7 @@ export const students = [
     {
         registration: "430391",
         name: "STEPHANIE CAVALCANTE DOS SANTOS",
-        totalCoins: 35,
+        totalCoins: 40,
     },
     {
         registration: "500860",
@@ -262,7 +262,7 @@ export const students = [
     {
         registration: "539865",
         name: "VITOR GABRIEL RODRIGUES DE SOUSA",
-        totalCoins: 51,
+        totalCoins: 56,
     },
     {
         registration: "515115",
@@ -272,11 +272,11 @@ export const students = [
     {
         registration: "541566",
         name: "YLANA MARIA ARAUJO TORRES",
-        totalCoins: 25,
+        totalCoins: 30,
     },
     {
         registration: "500011",
         name: "YURI RAMOS RIBEIRO",
-        totalCoins: 22,
+        totalCoins: 27,
     },    
 ];
