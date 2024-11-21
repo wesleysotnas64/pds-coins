@@ -278,5 +278,10 @@ export const students = [
         registration: "500011",
         name: "YURI RAMOS RIBEIRO",
         totalCoins: 27,
+    },
+    {
+        registration: "000000",
+        name: "ALUNO TESTE",
+        totalCoins: 42,
     },    
 ];

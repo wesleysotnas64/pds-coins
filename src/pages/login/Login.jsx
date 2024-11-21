@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { ButtonSeeCoins, InputRegistration, PageContainer } from "./Login.style";
 import { StudentPanel } from "../studentPanel/StudentPanel";
-import { students } from "../../data/pds2024_1";
+// import { students } from "../../data/pds2024_2";
+import { students } from "../../data/pds2024_2";
 import { Header } from "../../components/header/Header";
 
 export function Login () {
