@@ -1,6 +1,6 @@
 import styled from "styled-components"
 import { theme } from "../../themes.js"
-import bgImage from "../../assets/img/wallpaper_tesouro.png"
+import bgImage from "../../assets/img/img_tesouro.png"
 
 export const PageContainer = styled.div`
     background: ${theme.colors.deepBlue};
