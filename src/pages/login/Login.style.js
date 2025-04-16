@@ -10,8 +10,15 @@ export const PageContainer = styled.div`
     height: 100vh;
     width: 100vw;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+
+    label{
+        color: white;
+        font-size: 10pt;
+        margin-top: 5px;
+    }
 `;
 
 export const InputRegistration = styled.input`
@@ -59,6 +66,6 @@ export const ButtonSeeCoins = styled.button`
     }
 `;
 
-export const MessageRegistration = styled.p`
-    
+export const LoginArea = styled.div`
+    display: flex;
 `;

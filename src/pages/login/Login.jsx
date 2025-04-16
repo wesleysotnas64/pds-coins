@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ButtonSeeCoins, InputRegistration, PageContainer } from "./Login.style";
+import { ButtonSeeCoins, InputRegistration, LoginArea, PageContainer } from "./Login.style";
 import { StudentPanel } from "../studentPanel/StudentPanel";
 // import { students } from "../../data/pds2024_2";
 import { students } from "../../data/pds2024_2";
@@ -45,16 +45,20 @@ export function Login () {
                 ) :
                 (
                     <PageContainer>
-                        <InputRegistration
-                            placeholder="Matrícula"
-                            value={registration}
-                            onChange={handleRegistrationChange}
-                        />
-                        <ButtonSeeCoins
-                            onClick={handleButtonSeeCoinsClick}
-                        >
-                            {">"}
-                        </ButtonSeeCoins>
+                        <LoginArea>
+                            <InputRegistration
+                                placeholder="Matrícula"
+                                value={registration}
+                                onChange={handleRegistrationChange}
+                            />
+                            <ButtonSeeCoins
+                                onClick={handleButtonSeeCoinsClick}
+                            >
+                                {">"}
+                            </ButtonSeeCoins>
+                        </LoginArea>
+                        
+                        <label>Entre com a matrícula <strong>000000</strong> para testes.</label>
                     </PageContainer>
                 )
             }
